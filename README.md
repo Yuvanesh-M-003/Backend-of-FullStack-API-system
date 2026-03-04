@@ -15,8 +15,4 @@ Environment Configuration for easy deployment.
 🛠️ Tech Stack
 Node.js (Runtime)
 
-Express.js (Framework)
-
 Database: MongoDB / PostgreSQL
-
-Security: Bcrypt & JSON Web Tokens (JWT)
