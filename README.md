@@ -15,4 +15,4 @@ Environment Configuration for easy deployment.
 🛠️ Tech Stack
 Node.js (Runtime)
 
-Database: MongoDB / PostgreSQL
+Database:  PostgreSQL
